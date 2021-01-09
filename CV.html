@@ -1,0 +1,145 @@
+
+<!-- saved from url=(0022)http://desto.owns.fun/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width">
+<title>CV</title><style type="text/css">body {
+  /* default to system fonts */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", sans-serif;
+  font-size: 15px;
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+}</style>
+
+<script data-dapp-detection="">
+(function() {
+  let alreadyInsertedMetaTag = false
+
+  function __insertDappDetected() {
+    if (!alreadyInsertedMetaTag) {
+      const meta = document.createElement('meta')
+      meta.name = 'dapp-detected'
+      document.head.appendChild(meta)
+      alreadyInsertedMetaTag = true
+    }
+  }
+
+  if (window.hasOwnProperty('web3')) {
+    // Note a closure can't be used for this var because some sites like
+    // www.wnyc.org do a second script execution via eval for some reason.
+    window.__disableDappDetectionInsertion = true
+    // Likely oldWeb3 is undefined and it has a property only because
+    // we defined it. Some sites like wnyc.org are evaling all scripts
+    // that exist again, so this is protection against multiple calls.
+    if (window.web3 === undefined) {
+      return
+    }
+    if (!window.web3.currentProvider ||
+        !window.web3.currentProvider.isMetaMask) {
+      __insertDappDetected()
+    }
+  } else {
+    var oldWeb3 = window.web3
+    Object.defineProperty(window, 'web3', {
+      configurable: true,
+      set: function (val) {
+        if (!window.__disableDappDetectionInsertion)
+          __insertDappDetected()
+        oldWeb3 = val
+      },
+      get: function () {
+        if (!window.__disableDappDetectionInsertion)
+          __insertDappDetected()
+        return oldWeb3
+      }
+    })
+  }
+})()</script></head>
+<body>
+<table class="blueTable" style="width: 100%; border-style: hidden; background-color: #f5f7f7;" width="100%">
+<thead>
+<tr>
+<td style="width: 17.4183%; background-color: #fbfeff; border-style: none;">&nbsp;</td>
+<td style="width: 25.1177%; background-color: #fbfeff; border-style: none;">
+<h1><span style="color: #000000;">Dominic St-Onge</span></h1>
+    
+</td>
+<td style="width: 1.3459%; background-color: #fbfeff; border-style: none;">&nbsp;</td>
+
+<td style="width: 30.1744%; background-color: #fbfeff; border-style: none;">&nbsp;
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 10.4183%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 25.1177%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 1.3459%; text-align: right; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 35.3833%; border-style: solid; border-color: #f8fcfc;"><br>
+<p><span style="color: #333333;">Game development has always been my biggest passion since I was 8 years old.</span><br><span style="color: #333333;">After learning and creating on my free time, I have developed a complete baggage of logical, audio and design knowdedge.</span></p>
+<br></td>
+<td style="width: 35.1744%; border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 15.4183%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="direction: ltr; width:25.1177%; text-align: right; background-color: #f8fcfc; border-style: none;">
+<h2><span style="color: #333333;">&nbsp;Aptitudes</span></h2>
+</td>
+<td style="direction: ltr; width: 1.3459%; text-align: right; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="background-color: #f8fcfc; width: 33.3833%; border-style: solid; border-color: #f8fcfc;"><br>
+<p><span style="color: #333333;">Self-teaching</span></p>
+<p><span style="color: #333333;">Analytical</span></p>
+<p><span style="color: #333333;">Anti-fragile/Passionate</span></p>
+<p><span style="color: #333333;">Open-minded</span></p><br>
+</td>
+<td style="background-color: #f8fcfc; width: 30.1744%; border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 15.4183%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 25.1177%; text-align: right; background-color: #f8fcfc; border-style: none;">
+<h2><span style="color: #333333;">Logiciels</span></h2>
+</td>
+<td style="width: 1.3459%; text-align: right; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 33.3833%; border-style: solid; border-color: #f8fcfc;"><br>
+<p><span style="color: #333333;"><strong>Unity</strong> - 3 years</span></p>
+<p><span style="color: #333333;"><strong>Game Maker/GM:Studio</strong> - 9 years</span></p>
+
+<p><span style="color: #333333;"><strong>FMOD Studio and Wwise</strong> - 1 year
+</span></p><br>
+</td>
+<td style="width: 30.1744%; border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 17.4183%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 25.1177%; text-align: right; background-color: #f8fcfc; border-style: none;">
+<h2><span style="color: #333333;">&nbsp;Expérience</span></h2>
+</td>
+<td style="width: 1.3459%; text-align: right; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 33.3833%; background-color: #f8fcfc; border-style: solid; border-color: #f8fcfc;"><br>
+<p><span style="color: #333333;"><strong>Game jams</strong></span><br><span style="color: #333333;">Winter 2020 - ???</span></p>
+<p><span style="color: #333333;"><strong><video controls="controls" width="300" à="">
+<source src="1.mp4"></video><video controls="controls" width="300" à="">
+<source src="2.mp4"></video> </strong><strong><video controls="controls" width="300">
+<source src="3.mp4"></video></strong></span></p>
+<br>
+</td>
+<td style="width: 30.1744%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 17.4183%; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 25.1177%; text-align: right; padding-left: 40px; background-color: #f8fcfc; border-style: none;">
+<h2><span style="color: #333333;">&nbsp;Éducation</span></h2>
+</td>
+<td style="width: 1.3459%; text-align: right; padding-left: 40px; background-color: #f8fcfc; border-style: none;">&nbsp;</td>
+<td style="width: 33.3833%; border-style: solid; border-color: #f8fcfc;"><br>
+<p><span style="color: #333333;"><strong>IT - La Camaradière Secondary School</strong></span><br><span style="color: #333333;">2013 - 2018</span></p>
+<p><span style="color: #333333;"><strong>Game Programming - Sainte-Foy CEGEP Quebec City</strong></span><br><span style="color: #333333;">2018 - Fall 2020</span></p><br>
+</td>
+<td style="width: 30.1744%; border-style: none;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</body></html>
